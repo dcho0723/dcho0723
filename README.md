@@ -25,7 +25,7 @@
 
 ### About Me:
 - 🌱 I’m currently building projects at The Flatiron School
-- :climbing: I love to climb. Message me to hit the local gym/crag
+- :climbing: I love climbing. Message me to hit the local gym/crag
 
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcho0723&count_private=true&theme=buefy)
